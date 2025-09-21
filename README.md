@@ -77,7 +77,7 @@ I’m continuously learning, refining, and pushing for clarity and measurable ou
 
 - [LinkedIn](https://www.linkedin.com/in/om-jadhav-296575174/)
 - [GitHub](https://github.com/OmJadhav-official)
-- [Gmail](pmjadhav316@gmail.com)
+- [omjadhav316@gmail.com](pmjadhav316@gmail.com)
 
 <br>
 
