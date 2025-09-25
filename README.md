@@ -64,7 +64,7 @@ I’m continuously learning, refining, and pushing for clarity and measurable ou
 
 <br>
 
-## 🤓 Fun Facts & Hobbies
+##  Fun Facts & Hobbies
 
 - 🏊‍♂️ Love swimming and mountain climbing.  
 - 🕒 Built a dashboard to track my procrastination — turns out, I’m highly consistent!  
