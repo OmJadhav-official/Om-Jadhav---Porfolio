@@ -59,7 +59,7 @@ I’m continuously learning, refining, and pushing for clarity and measurable ou
 - [Full-Stack End-to-End Healthcare Data Analysis](https://github.com/OmJadhav-official/Full-Stack-End-to-End-Healthcare-Data-Analysis):  
   Comprehensive healthcare data insights pipeline.
 
-- [Streamlit Dashboard](https://github.com/OmJadhav-official/streamlit-dashboard):  
+- [Streamlit Dashboard](https://github.com/OmJadhav-official/Ola_Analysis_with_SQL-Streamlit-PowerBI):  
   Interactive dashboards for real-time data exploration.
 
 <br>
